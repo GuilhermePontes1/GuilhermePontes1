@@ -1,4 +1,7 @@
-### Hi there 👋
+## Olá!! 👋
+## Bem vindo ao meu GIT! Aqui eu mostro um pouco de como anda minha evolução em algumas linguagens, sendo que meu foco é JAVA! 
+
+##SALVADOR, BA :sunny:	:thermometer:	
 
 <!--
 **GuilhermePontes1/GuilhermePontes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
