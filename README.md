@@ -2,6 +2,13 @@
 ## Bem vindo ao meu GIT! Aqui eu mostro um pouco de como anda minha evolução em algumas linguagens, sendo que meu foco é JAVA! 
 
 ## SALVADOR, BA :sunny:	:thermometer:	
+## 3º Semestre de Engenharia de Software  :robot:	
+
+## Contato:    ![https://www.linkedin.com/in/guilherme-pontes-baa319199/](https://user-images.githubusercontent.com/65747791/112210938-0e201300-8bfa-11eb-8163-4d1874df1ddd.png)
+
+
+
+
 
 <!--
 **GuilhermePontes1/GuilhermePontes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
