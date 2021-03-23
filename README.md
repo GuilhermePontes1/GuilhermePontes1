@@ -4,7 +4,10 @@
 ## SALVADOR, BA :sunny:	:thermometer:	
 ## 3º Semestre de Engenharia de Software  :robot:	
 
-## Contato:    ![https://www.linkedin.com/in/guilherme-pontes-baa319199/](https://user-images.githubusercontent.com/65747791/112210938-0e201300-8bfa-11eb-8163-4d1874df1ddd.png)
+## Contato:   <a href="https://www.linkedin.com/in/guilherme-pontes-baa319199/">
+   <img src="https://user-images.githubusercontent.com/65747791/112212577-ea5dcc80-8bfb-11eb-8ea0-c84025b4398b.png">
+
+</a>
 
 
 
