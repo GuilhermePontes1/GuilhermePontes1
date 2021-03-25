@@ -14,7 +14,7 @@
 
 ## Servidores:<img align = "center" height = "120" width = "120" src="https://user-images.githubusercontent.com/65747791/112217165-1596ea80-8c01-11eb-9bd5-580cd35e4bf3.png"><img align = "center" height = "40" width = "120" src="https://user-images.githubusercontent.com/65747791/112217696-981faa00-8c01-11eb-9c79-20328b74f58e.png"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePontes1)](https://github.com/GuilhermePontes1/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePontes1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePontes1)](https://github.com/GuilhermePontes1/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePontes1&show_icons=true&theme=dark)
 
 
 
