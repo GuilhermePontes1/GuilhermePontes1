@@ -5,9 +5,12 @@
 ###  <p align = "center"> 4º Semestre de Engenharia de Software  :robot:	</p> 
 
 ### Contatos: 
-<a href="https://www.linkedin.com/in/guilherme-pontes-baa319199/"> <img align = "center" height = "60" width = "60" src="https://user-images.githubusercontent.com/65747791/112214375-e0d56400-8bfd-11eb-80f9-7f50a3f53ab8.png">  <a href="https://www.instagram.com/guilherme.pontes.1884/"><img align = "center" height = "60" width = "60" src="https://user-images.githubusercontent.com/65747791/112214049-84724480-8bfd-11eb-8128-af9840f1feff.png">  <a href="https://www.facebook.com/guilherme.pontes.1884/"><img align = "center" height = "60" width = "60" src="https://user-images.githubusercontent.com/65747791/112215062-afa96380-8bfe-11eb-8f35-d4df71ba470c.png">
- </a>
- </a>  
+<a href="https://www.linkedin.com/in/guilherme-pontes-baa319199/"> ![image](https://user-images.githubusercontent.com/65747791/132419392-85131dc3-e528-424b-89a5-d26a2de4547c.png)
+<a href="https://www.instagram.com/guilherme.pontes.1884/"> ![image](https://user-images.githubusercontent.com/65747791/132419449-13e392b3-d9fa-4625-a633-37668a2bfc1e.png)
+<a href="https://www.facebook.com/guilherme.pontes.1884/"> ![image](https://user-images.githubusercontent.com/65747791/132419606-69d7c2f6-b149-4511-9e08-c6fc77e2b6aa.png)
+</a>
+</a>
+</a>  
 
 ###  Linguagens:
 ![image align](https://user-images.githubusercontent.com/65747791/132417507-ba721e81-a53c-42f4-b1f8-604d5833af23.png) ![image](https://user-images.githubusercontent.com/65747791/132417563-e7e69039-8675-406f-a89c-0276178e90f1.png) ![image](https://user-images.githubusercontent.com/65747791/132417667-6363df4c-4d04-4682-b30d-5ab8c2ce5aa1.png) ![image](https://user-images.githubusercontent.com/65747791/132417735-6789948e-65e5-4e10-aee2-278eb48163a7.png) ![image](https://user-images.githubusercontent.com/65747791/132417756-105f3d98-878a-4a98-a5dc-1347b42bce14.png) ![image](https://user-images.githubusercontent.com/65747791/132417813-88005538-ed9a-45e8-b412-04ccd8884eee.png) 
