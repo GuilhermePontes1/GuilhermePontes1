@@ -27,11 +27,9 @@
 ### Framework: 
 ![image](https://user-images.githubusercontent.com/65747791/132418946-b40811a4-333c-4870-844d-76e9f97b9cc1.png) ![image](https://user-images.githubusercontent.com/65747791/132418965-06c9427f-abeb-494b-998a-69d2d826ac1f.png) ![image](https://user-images.githubusercontent.com/65747791/132418980-0e1483d5-cdda-492b-b550-09bd850dcc15.png)
 
-
-
- 
-
-
+<br>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePontes1)](https://github.com/GuilhermePontes1/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePontes1&show_icons=true&theme=dark)
 
