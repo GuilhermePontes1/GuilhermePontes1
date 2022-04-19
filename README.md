@@ -2,7 +2,7 @@
 ###  <p align = "center"> Bem vindo ao meu GIT! Aqui eu mostro um pouco de como anda minha evolução em algumas linguagens, sendo que meu foco é JAVA! </p>  
 
 ### <p align = "center"> SALVADOR, BA :sunny:	:thermometer:	 </p> 
-###  <p align = "center"> 4º Semestre de Engenharia de Software  :robot:	</p> 
+###  <p align = "center"> 6º Semestre de Engenharia de Software  :robot:	</p> 
 
 ### Contatos: 
 <a href="https://www.linkedin.com/in/guilherme-pontes-baa319199/"> ![image](https://user-images.githubusercontent.com/65747791/132419392-85131dc3-e528-424b-89a5-d26a2de4547c.png)
