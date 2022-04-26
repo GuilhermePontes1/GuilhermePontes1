@@ -7,7 +7,6 @@
 ### Contatos: 
 <a href="https://www.linkedin.com/in/guilherme-pontes-baa319199/"> ![image](https://user-images.githubusercontent.com/65747791/132419392-85131dc3-e528-424b-89a5-d26a2de4547c.png)
 <a href="https://www.instagram.com/guilherme.pontes.1884/"> ![image](https://user-images.githubusercontent.com/65747791/132419449-13e392b3-d9fa-4625-a633-37668a2bfc1e.png)
-<a href="https://www.facebook.com/guilherme.pontes.1884/"> ![image](https://user-images.githubusercontent.com/65747791/132419606-69d7c2f6-b149-4511-9e08-c6fc77e2b6aa.png)
 </a>
 </a>
 </a>  
